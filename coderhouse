@@ -1,2 +1,2 @@
-
+https://github.com/nazaamandel/README.md/issues/1#issue-5093040298
 En la imagen adjunta se vera el modo de Red Interna en lugar de Bridge ya que de esta forma podremos realizar cualquier tipo de movimiento en nuestro sistema operativo sin queda expuestos ante un posible ingreso desde internet. Si utilizaramos el modo de red Bridge nuestra Virtual Machine dejaria de ser privada, no podriamos experimentar de forma segura con ataques, malware y demas. El modo Brigde toma a la VM como si fuera otro dispositivo mas conectado a la red wifi, un atacante de internet podria ingresar a la misma facilmente y, a su vez, al dispositivo host.
